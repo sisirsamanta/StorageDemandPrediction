@@ -17,11 +17,19 @@ pip install jupyterlab
 # Project Structure
 
 storage-demand-prediction/
+
 │── data/                  # Raw & processed datasets
+
 │── models/                # Trained ML models
+
 │── src/                   # Source code
+
 │── notebooks/             # Jupyter notebooks for analysis
+
 │── scripts/               # Training and evaluation scripts
+
 │── app/                   # API/Web App to expose predictions
+
 │── requirements.txt       # List of dependencies
+
 │── README.md
